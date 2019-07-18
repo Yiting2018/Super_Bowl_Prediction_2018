@@ -12,6 +12,6 @@ By looking at the graph, they do have some correlations among some of the variab
 The funny thing is **I don't really understand this sport, but I can still build a model to predict the result**, even though my predition was proved wrong lol. I guess this is the beauty of the competition.
 
 ## Code
-Please see the [Jupyter Notebook](https://yiting2018.github.io/docs/NFL_Prediction.html) for details.
+Please see the [Jupyter Notebook](https://yiting2018.github.io/NFL_Prediction.html) for details.
 
 ### [Go Back to Homepage](https://yiting2018.github.io)
