@@ -14,4 +14,6 @@ The funny thing is **I don't really understand this sport, but I can still build
 ## Code
 Please see the [Jupyter Notebook](http://htmlpreview.github.io/?https://github.com/Yiting2018/Super_Bowl_Prediction_2018/blob/master/docs/NFL_Prediction.html) for details.
 
-### [Go Back to Homepage](https://yiting2018.github.io)
+<br>
+
+## [Go Back to Homepage](https://yiting2018.github.io)
